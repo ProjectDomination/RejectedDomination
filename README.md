@@ -34,20 +34,34 @@ In order to create a character, you must fill in the blanks. In this case, they 
 Rejected Domination is an idea. It can be any game possible; from Danmaku games, Visual novel point-and-click games, adventure games to platformers, arcade games and RPGs.
 
 There are rules that should be followed when creatin a bio for your character in Rejected Domination:
+
 1. The minimal age for a character is 232 months old.
+
 2. Make sure that it fits the concept of the project.
+
 3. Do not make it incredibly absurd, or totally unrealistic.
+
 4. Come up with the character's story. *This is optional.*
+
 5. Do not make an evil character.
+
 6. Please don't add something completely impure and immature to the character.
+
 7. You cannot plagiarize it from an another bio. Keep it original.
+
 8. Create your own weapon for the character, how it works, its name and its detailed information.
+
 9. Make sure that the character wears clothes that suit the character. You cannot have the girl character wearing a bra and a mini-skirt.
+
 10. Create the character's personality and gender. Don't worry, gender benders. We allow characters that are not heterosexual ^_^
+
 11. We do not allow characters that denotes discrimination.
+
 12. You can choose between two types of a character only: [Lunar and Solar type.](http://ramenitro.blogspot.com/2015/05/dreamweaver.html)
 13. Do not add something related to satanism on the chracter.
+
 14. Come up with their dream world, its info and its layout.
+
 15. Make sure that the character is a Dreamweaver.
 
 By creating the character, you agree to the rules of the submission.
