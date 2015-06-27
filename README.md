@@ -1,5 +1,5 @@
-# Eternal Equinox
-Rejected Domination 1
+# Rejected Domination
+Current game in progress: RD 1 - Eternal Equinox
 
 Currently, the project is work-in progress.
 
