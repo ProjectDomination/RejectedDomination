@@ -39,7 +39,7 @@ There are rules that should be followed when creatin a bio for your character in
 
 2. Make sure that it fits the concept of the project.
 
-3. Do not make it incredibly absurd, or totally unrealistic.
+3. Do not use the name "John Cabangcala" anywhere for your character.
 
 4. Come up with the character's story. *This is optional.*
 
@@ -49,7 +49,7 @@ There are rules that should be followed when creatin a bio for your character in
 
 7. You cannot plagiarize it from an another bio. Keep it original.
 
-8. Create your own weapon for the character, how it works, its name and its detailed information.
+8. Create your own weapon for the character, how it works, its name and its detailed information. *This is optional*
 
 9. Make sure that the character wears clothes that suit the character. You cannot have the girl character wearing a bra and a mini-skirt.
 
