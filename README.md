@@ -35,7 +35,7 @@ Rejected Domination is an idea. It can be any game possible; from Danmaku games,
 
 There are rules that should be followed when creatin a bio for your character in Rejected Domination:
 
-1. The minimal age for a character is 232 months old.
+1. The minimal age for a character is 48 months old.
 
 2. Make sure that it fits the concept of the project.
 
