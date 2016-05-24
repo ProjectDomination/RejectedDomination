@@ -64,7 +64,7 @@ There are rules that should be followed when creatin a bio for your character in
 
 15. Make sure that the character is a Dreamweaver.
 
-By creating the character, you agree to the rules of the submission.
+By creating the character, you agree to the rules of submitting the character.
 
 ##Oh boy! Now what?
 I just need a bit more of time for the project, considering that I work alone on my resources. We've already set our hearts on making this project, so let's make it possible, together we will make the world right and fantastic!
